@@ -113,17 +113,17 @@ const AdminList = () => {
                 <tbody>
                     <tr className="p-3">
                         <td scope="row w-25">{++count}</td>
-                        <td className='fw-bold'>KIDJE</td>
-                        <td className='opacity-75'>Fortunatus</td>
-                        <td className='opacity-75'>elfriedv16@gmail.com</td>
+                        <td className='fw-bold'>shravan</td>
+                        <td className='opacity-75'>nallamada</td>
+                        <td className='opacity-75'>nsr@gmail.com</td>
                         <td className='opacity-75'>96457545</td>
                     </tr>
                     <tr className="p-3">
                         <td scope="row w-25">{++count}</td>
-                        <td className='fw-bold'>ALASSANE</td>
-                        <td className='opacity-75'>Kabirou</td>
-                        <td className='opacity-75'>kabirou2001@gmail.com</td>
-                        <td className='opacity-75'>51541210</td>
+                        <td className='fw-bold'>chanti</td>
+                        <td className='opacity-75'>rocks</td>
+                        <td className='opacity-75'>rock@gmail.com</td>
+                        <td className='opacity-75'>515412101</td>
                     </tr>
                 </tbody>
             </table>
